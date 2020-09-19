@@ -9,6 +9,10 @@ Copy references from Zotero and paste them into RemNote.
 Install style in Zotero:
 
 - Go to `Options > Cite`, click the `+` and chose the `remnote-copyandpaste.csl` from this repository.
+  - On Linux you can alteratively copy the file directly into Zotero's configuration folder:
+```
+cp remnote-copyandpaste.csl ~/Zotero/styles/
+```
 - Select style `RemNote Copy&Paste` in `Options > Export > Quick Copy`.
 
 ## Usage
